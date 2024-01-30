@@ -1,0 +1,23 @@
+export const images = [
+    "https://source.unsplash.com/user/c_v_r/1900x800",
+    "https://source.unsplash.com/user/c_v_r/1900x800",
+    'https://source.unsplash.com/user/c_v_r/1900x800',
+    'https://source.unsplash.com/user/c_v_r/1900x800',
+    'https://source.unsplash.com/user/c_v_r/1900x800',
+    'https://source.unsplash.com/user/c_v_r/1900x800',
+    'https://source.unsplash.com/user/c_v_r/1900x800',
+    'https://source.unsplash.com/user/c_v_r/1900x800',
+    'https://source.unsplash.com/user/c_v_r/1900x800',
+    'https://source.unsplash.com/user/c_v_r/1900x800',
+    "https://source.unsplash.com/user/c_v_r/1900x800",
+    "https://source.unsplash.com/user/c_v_r/1900x800",
+    'https://source.unsplash.com/user/c_v_r/1900x800',
+    'https://source.unsplash.com/user/c_v_r/1900x800',
+    'https://source.unsplash.com/user/c_v_r/1900x800',
+    'https://source.unsplash.com/user/c_v_r/1900x800',
+    'https://source.unsplash.com/user/c_v_r/1900x800',
+    'https://source.unsplash.com/user/c_v_r/1900x800',
+    'https://source.unsplash.com/user/c_v_r/1900x800',
+    'https://source.unsplash.com/user/c_v_r/1900x800',
+
+]
